@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" client="administrator" type="language" method="upgrade">
+	<name>Dansk (Denmark)</name>
+	<tag>da-DK</tag>
+	<version>3.9.17</version>
+	<creationDate>April 2020</creationDate>
+	<author>Joomla! Project</author>
+	<authorEmail>mail@danskjoomla.dk</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>da-DK administrator language</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params/>
+</extension>
